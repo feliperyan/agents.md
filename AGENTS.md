@@ -75,7 +75,7 @@ Follow these style guidelines in chat, commit messages, and prose:
 - Be concise and descriptive
 - Don't oversell the changes. It's not an advertisement.
 - Don't use fancy words like "comprehensive", "utilize", "implement", "exhaustive", "simplify", "optimize", "seamlessly"
-- When writing markdown, avoid using headings smaller than H2
+- When writing markdown, avoid using headings smaller than H3
 - When writing markdown, don't use bold.
 - When writing markdown tables, pad cells with spaces so columns align. This makes tables legible in monospace contexts like terminals.
 - Never use em dashes (—). Use commas, colons, or separate sentences instead.
